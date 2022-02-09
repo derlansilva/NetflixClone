@@ -1,8 +1,2 @@
 # NetflixClone
-clone netflix react.js
-
-
-#1 iniciar react app
-
-
-#2 instalar dependencias
+![img](https://photos.google.com/photo/AF1QipN48nLuejtHPHDuFuD1uC9B4PezXSFmRFsw0w79)
