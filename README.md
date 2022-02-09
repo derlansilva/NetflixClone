@@ -4,7 +4,38 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![netFlixClone](./src/images/netflix2.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
