@@ -1,5 +1,5 @@
 ## Preview
-<img width=100% src="./src/images/react-clone.gif">
+<img width=100% src="./src/images/react_clone.gif">
 
 # NetflixClone
 ![netFlixClone](./src/images/netflix.JPG)
